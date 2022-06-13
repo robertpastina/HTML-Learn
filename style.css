@@ -1,0 +1,22 @@
+h1{
+    font-size: 40px;
+    color: crimson;
+    font-family: 'Times New Roman';
+}
+h2{
+    font-size: 33px;
+    color: #9900cc;
+    font-family: 'Courier';
+}
+.big{
+    font-size: 55px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.big.uppercase{
+    color:goldenrod;
+}
+h1 span{
+    color:black;
+}
